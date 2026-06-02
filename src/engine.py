@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
 """
-$name
+sn_teamviewer_remote_connector — ServiceNow TeamViewer Remote Connector
 Copyright (C) 2026  Vladimir Kapustin
-License: AGPL-3.0
+SPDX-License-Identifier: AGPL-3.0
 """
 import json, requests
 from typing import List, Dict

@@ -1,4 +1,9 @@
 #!/usr/bin/env python3
+"""
+sn_teamviewer_remote_connector CLI
+Copyright (C) 2026  Vladimir Kapustin
+SPDX-License-Identifier: AGPL-3.0
+"""
 import argparse, sys, os
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 from src.engine import Engine

@@ -1,0 +1,38 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Test artifacts
+.pytest_cache/
+htmlcov/
+.coverage
+coverage.xml
+
+# Report output (runtime-generated)
+report*.json
+report*.md
+/tmp/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Environment
+.env
+.envrc
+venv/
+.venv/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Execution history
+tests/execution_history/
